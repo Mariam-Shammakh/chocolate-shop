@@ -1,3 +1,3 @@
 # chocolate-shop
 
-this is chocolate shop
+This Is Chocolate Shop
