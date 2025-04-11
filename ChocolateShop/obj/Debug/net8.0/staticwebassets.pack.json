@@ -1,0 +1,361 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ChocolateShop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ChocolateShop.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\1.jpg",
+      "PackagePath": "staticwebassets\\1.jpg"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\2.jpg",
+      "PackagePath": "staticwebassets\\2.jpg"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\3.jpg",
+      "PackagePath": "staticwebassets\\3.jpg"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\4.jpg",
+      "PackagePath": "staticwebassets\\4.jpg"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\5.jpg",
+      "PackagePath": "staticwebassets\\5.jpg"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\6.jpg",
+      "PackagePath": "staticwebassets\\6.jpg"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\7.jpg",
+      "PackagePath": "staticwebassets\\7.jpg"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\8.jpg",
+      "PackagePath": "staticwebassets\\8.jpg"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\9.jpg",
+      "PackagePath": "staticwebassets\\9.jpg"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\Almond Butter Chocolate Fudge.jpg",
+      "PackagePath": "staticwebassets\\Almond Butter Chocolate Fudge.jpg"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\Vegan Praline Chocolates.jpg",
+      "PackagePath": "staticwebassets\\Vegan Praline Chocolates.jpg"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\bddb547e-209b-4f11-ac2b-6648592b55bd.jpg",
+      "PackagePath": "staticwebassets\\bddb547e-209b-4f11-ac2b-6648592b55bd.jpg"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\images\\1babe800-b5f0-4184-8071-81e76c478af4_140464.jpg",
+      "PackagePath": "staticwebassets\\images\\1babe800-b5f0-4184-8071-81e76c478af4_140464.jpg"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\images\\530181fe-627b-4b0d-ba4d-57f9084ce730_112168.jpg",
+      "PackagePath": "staticwebassets\\images\\530181fe-627b-4b0d-ba4d-57f9084ce730_112168.jpg"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\images\\5b7cbb8e-dfbb-409b-bd7c-03cd41e28602_8ce3de8c-dd75-4857-9780-7417a6ad7922.jpg",
+      "PackagePath": "staticwebassets\\images\\5b7cbb8e-dfbb-409b-bd7c-03cd41e28602_8ce3de8c-dd75-4857-9780-7417a6ad7922.jpg"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\images\\6b52bdd8-c0b4-4d3c-9b79-a8661f841910_8ce3de8c-dd75-4857-9780-7417a6ad7922.jpg",
+      "PackagePath": "staticwebassets\\images\\6b52bdd8-c0b4-4d3c-9b79-a8661f841910_8ce3de8c-dd75-4857-9780-7417a6ad7922.jpg"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\images\\92eff87a-e7cb-483b-8c89-cafd1a01afe9_chocolate-fudge-sundae-selector.jpg",
+      "PackagePath": "staticwebassets\\images\\92eff87a-e7cb-483b-8c89-cafd1a01afe9_chocolate-fudge-sundae-selector.jpg"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\images\\9ac44a82-8241-45c0-be96-d769ebe6ac90_111968.jpg",
+      "PackagePath": "staticwebassets\\images\\9ac44a82-8241-45c0-be96-d769ebe6ac90_111968.jpg"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\images\\9ea69b9c-690e-4ed6-b0d0-383beb6d59d3_cashew-nuts.jpg",
+      "PackagePath": "staticwebassets\\images\\9ea69b9c-690e-4ed6-b0d0-383beb6d59d3_cashew-nuts.jpg"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\images\\b005c29c-02d1-40bd-948d-1f280dc9bb1c_112168.jpg",
+      "PackagePath": "staticwebassets\\images\\b005c29c-02d1-40bd-948d-1f280dc9bb1c_112168.jpg"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\images\\b2b5a027-9918-4832-9f28-7945452ab1dc_112168.jpg",
+      "PackagePath": "staticwebassets\\images\\b2b5a027-9918-4832-9f28-7945452ab1dc_112168.jpg"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\images\\c6d5e3f5-4cdc-46df-9762-f2db8a36cc86_310361.jpg",
+      "PackagePath": "staticwebassets\\images\\c6d5e3f5-4cdc-46df-9762-f2db8a36cc86_310361.jpg"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\images\\e5e6dd25-801f-4a79-ac10-3b1941929294_chocolate-fudge-sundae-selector.jpg",
+      "PackagePath": "staticwebassets\\images\\e5e6dd25-801f-4a79-ac10-3b1941929294_chocolate-fudge-sundae-selector.jpg"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "F:\\Mariam Shammkh\\ChocolateShop\\wwwroot\\slider-bg1.png",
+      "PackagePath": "staticwebassets\\slider-bg1.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ChocolateShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ChocolateShop.props",
+      "PackagePath": "build\\ChocolateShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ChocolateShop.props",
+      "PackagePath": "buildMultiTargeting\\ChocolateShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ChocolateShop.props",
+      "PackagePath": "buildTransitive\\ChocolateShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

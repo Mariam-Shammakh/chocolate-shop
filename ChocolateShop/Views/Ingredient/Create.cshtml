@@ -1,0 +1,28 @@
+﻿@model Ingredient
+@{
+    ViewData["Title"] = "Create";
+}
+<div class="align-content-lg-center">
+    <form method="post" enctype="multipart/form-data" asp-action="Create" asp-controller="Ingredient">
+        <div class="row mb-3">
+            <label class="col-sm-4 col-forw-label text-white">Name</label>
+            <div class="col-sml-8">
+                <input class="form-control" asp-for="Name">
+                <span asp-validation for="Name" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row mb-3">
+            <label class="col-sm-4 col-forw-label text-white">Description</label>
+            <div class="col-sml-8 ">
+                <input class="form-control" asp-for="Description">
+                <span asp-validation for="Name" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="offset-sm-4 col-sm-4 d-grid">
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </div>
+           
+        </div>
+    </form>
+</div>

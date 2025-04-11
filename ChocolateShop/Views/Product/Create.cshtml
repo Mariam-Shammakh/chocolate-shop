@@ -1,0 +1,78 @@
+﻿@model Product
+@{
+    ViewData["Title"] = "Create";
+}
+<div class="row ">
+    <div class="col-md-10 px-auto rounded border p-3 align-items-center">
+        <h2 class="text-center mb-5 text-white">New Product</h2>
+        <form method="post" enctype="multipart/form-data" asp-action="Create" asp-controller="Product">
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label text-white">Name</label>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="Name" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+
+            </div>
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label text-white">Price</label>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="Price" />
+                    <span asp-validation-for="Price" class="text-danger"></span>
+                </div>
+
+            </div>
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label text-white">Description</label>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="Description" />
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+
+            </div>
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label text-white">Product Image</label>
+                <div class="col-sm-8">
+                    <input class="form-control" asp-for="ProductImage" type="file" name="imageFile" accept=".jpg,.png,.gif" />
+                    <span asp-validation-for="ProductImage" class="text-danger"></span>
+                </div>
+
+            </div>
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label text-white">Category</label>
+                <div class="col-sm-8">
+                    <select asp-for="CategoryId" class="form-control" asp-items="@(new SelectList(ViewBag.Categories, "Id", "Name"))">
+                        <option value="">Select Category</option>
+                    </select>
+                </div>
+
+            </div>
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label text-white">Ingredients</label>
+                <div class="col-sm-8">
+
+                    
+                    @foreach (var ingredient in ViewBag.Ingredients as List<Ingredient>)
+                    {
+                        <div class="form-check">
+                            <input type="checkbox" name="ingredientIds" value="@ingredient.Id" class="form-check-input" />
+                            <label class="form-check-label text-white">@ingredient.Name</label>
+                        </div>
+                    }
+
+                    <span asp-validation-for="Ingredients" class="text-danger"></span>
+                </div>
+
+            </div>
+
+            <div class="row">
+                <div class="offset-sm-4 col-sm-4 d-grid">
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </div>
+                <div class="col-sm-4 d-grid">
+                    <a class="btn btn-outline-primary" asp-controller="Product" asp-action="Index" role="button">Cancel</a>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

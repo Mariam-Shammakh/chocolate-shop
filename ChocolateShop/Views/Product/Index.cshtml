@@ -1,0 +1,93 @@
+﻿@model IEnumerable<Product>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<div class="align-content-lg-center">
+<h1 class="text-center text-white">List Of Product</h1>
+<p>
+    <a asp-action="Create" asp-controller="Product" class="btn btn-lg btn-close-white border">Add New Product</a>
+</p>
+
+<table class="table table-responsive-lg   table-bordered table-striped table-hover table-dark">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                    @Html.DisplayNameFor(model => model.ProductImage)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            
+            <th>
+                @Html.DisplayNameFor(model => model.CategoryId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ingredients)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                    <td>
+                        @if (item.ProductImage != null)
+                        {
+                            @*  @Html.DisplayFor(modelItem => item.Category.Name) *@
+                            <img height="150" width="150" id="ProductImage" src="@item.ProductImage" class="rounded-3" />
+                        }
+                    </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)<span>$</span>
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                
+                <td>
+                    @if (item.Category != null)
+                    {
+                        @Html.DisplayFor(modelItem => item.Category.Name)
+                    }
+                </td>
+                <td>
+                        @if (item.Ingredients != null && item.Ingredients.Any())
+                        {
+                            @foreach (var ingredient in item.Ingredients)
+                            {
+                                @ingredient.Name
+
+                                <br />
+                            }
+                        }
+                        else
+                        {
+                            <p>No ingredients available.</p>
+                        }
+                </td>
+                <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id" asp-controller="Product" class="btn btn-primary btn-sm">Edit</a> <br /><br />
+                        <a asp-action="Delete" asp-route-id="@item.Id" asp-controller="Product" class=" btn btn-danger btn-sm" onclick="return confirm(HTMLAreaElement you sure?)">Delete</a>
+               </td>
+            </tr>
+        }
+    </tbody>
+</table>
+</div>
